@@ -1,0 +1,9 @@
+Modelo\Denuncia.class
+Modelo\ProcedurePrototype.class
+Vista\Main.class
+Modelo\PruebaConexion.class
+Modelo\ConexionBdSingleton.class
+Control\ControladorFactory.class
+Control\DenunciaControlador.class
+Modelo\ClonableProcedure.class
+Control\ControladorBase.class
