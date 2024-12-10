@@ -43,7 +43,7 @@ El sistema tiene como objetivo apoyar en la lucha contra la violencia de género
 
 ---
 
-##**Arquitectura del Sistema**
+## **Arquitectura del Sistema**
 ### MVC (Modelo-Vista-Controlador)
 El sistema está dividido en tres capas:
 
